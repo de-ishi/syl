@@ -1,6 +1,6 @@
 -- hello there, it should automatically load when its the right game
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/de-ishi/syl/refs/heads/main/TheForgeOBF.lua'))() -- the forge
-loadstring(game:HttpGet('https://github.com/de-ishi/syl/blob/main/ForsakenOBF.lua'))() -- forsaken
+loadstring(game:HttpGet('https://raw.githubusercontent.com/de-ishi/syl/refs/heads/main/ForsakenOBF.lua'))() -- forsaken
 
 
